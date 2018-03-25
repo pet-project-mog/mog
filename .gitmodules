@@ -1,0 +1,6 @@
+[submodule "mog-backend"]
+	path = mog-backend
+	url = https://github.com/pet-project-mog/mog-backend.git
+[submodule "mog-client"]
+	path = mog-client
+	url = https://github.com/pet-project-mog/mog-client.git
